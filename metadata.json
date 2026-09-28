@@ -1,0 +1,6 @@
+{
+  "name": "Mini Secure Fintech Wallet",
+  "description": "A production-grade secure fintech wallet featuring cryptographic password hashing, atomic database balance transfers, user authorization isolation, audit trails, and interactive security control test labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
